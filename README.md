@@ -13,6 +13,9 @@ This repository contains my solutions to various coding problems and algorithms.
 
 ### Challenges:
 
-- [StackQueueQuestions](src/StackQueueQuestions) : Java
-
+- [StackQueueQuestions](src/StackQueueQuestions)
+- [Tree](src/TreeQuestions)
+- [Maths](src/Maths)
+- [Recursion](src/Recursion)
+- 
 Happy coding! 🚀
