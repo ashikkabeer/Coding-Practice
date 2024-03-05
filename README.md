@@ -7,6 +7,10 @@ This repository contains my solutions to various coding problems and algorithms.
 - Browse the folders to find solutions organized by problem type.
 - Each solution includes code snippets
 
+### Resources:
+
+- [Resources](Resources)
+
 ### Challenges:
 
 - [StackQueueQuestions](src/StackQueueQuestions) : Java
