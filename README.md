@@ -9,6 +9,6 @@ This repository contains my solutions to various coding problems and algorithms.
 
 ### Challenges:
 
-- [StackQueueQuestions](https://github.com/ashikkabeer/Coding-Practise/tree/main/src/StackQueueQuestions) : Java
+- [StackQueueQuestions](src/StackQueueQuestions) : Java
 
 Happy coding! 🚀
