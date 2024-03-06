@@ -11,11 +11,13 @@ This repository contains my solutions to various coding problems and algorithms.
 
 - [Resources](Resources)
 
-### Challenges:
+### Topics:
 
 - [StackQueueQuestions](src/StackQueueQuestions)
-- [Tree](src/TreeQuestions)
+- [TreeQuestions](src/TreeQuestions)
 - [Maths](src/Maths)
 - [Recursion](src/Recursion)
-- 
+- [DynamicProgramming](src/DynamicProgramming)
+- [Sorting](src/Sorting)
+
 Happy coding! 🚀
